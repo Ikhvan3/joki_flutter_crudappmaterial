@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570063531532",
+    "firebase_url": "https://pro-material-49447-default-rtdb.firebaseio.com",
+    "project_id": "pro-material-49447",
+    "storage_bucket": "pro-material-49447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570063531532:android:f1dbb70717078995b70829",
+        "android_client_info": {
+          "package_name": "com.example.crud_material"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570063531532-cgh11saea7ro5lig5vs56qd8o1laisfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNSsY166PAMWO4tfduoTORpnybfg_SKmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570063531532-cgh11saea7ro5lig5vs56qd8o1laisfe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570063531532-2b8cn8guqga82v2b964mb3k54m8ebf7e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crudMaterial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
